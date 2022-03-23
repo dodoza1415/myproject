@@ -10,5 +10,5 @@ package sit.bscit.myproject;
  * @author DodOzA
  */
 public class myproject {
-    
+    System.out.println("Hello world!");
 }
